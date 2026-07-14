@@ -1,1 +1,1 @@
-5 STAR CONSTRUCTION — ONE-PAGE STATIC WEBSITE
+Open index.html. Upload the entire folder to your host or GitHub Pages.
